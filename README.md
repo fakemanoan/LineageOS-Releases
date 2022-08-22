@@ -1,0 +1,12 @@
+# LineageOS-Releases
+LineageOS releases for 7420 based devices.
+
+WARNING: THIS IS CUSTOM FIRMWARE, WHICH VOIDS THE WARRANTY OF YOUR DEVICE. I AM NOT RESPONSIBLE FOR ANY HARDWARE FAILURES, LOSS OF DATA OR EXPLOSIONS. USE AT YOUR OWN RISK.
+ANDROID 12L IS VERY UNSUPPORTED. BUGS AND PERFORMANCE ISSUES MAY ARISE COMPARED TO PREVIOUS VERSIONS
+
+Installation instructions:
+1) Boot to recovery
+2) Wipe Caches, Data, System
+3) Flash/sideload release
+4) Flash gapps/magisk if necessary
+5) Reboot (DO NOT INSTALL TWRP APP)
