@@ -10,3 +10,7 @@ Installation instructions:
 3) Flash/sideload release
 4) Flash gapps/magisk if necessary
 5) Reboot (DO NOT INSTALL TWRP APP)
+
+Reporting a bug:
+If you encounter a bug, glitch or issue with the ROM, please submit a detailed explanation of what's wrong, how it has gone wrong, what you did etc.
+Please provide a logcat when the issue happens. If I have no logs, it is unlikely to get fixed in a timely fashion. 
