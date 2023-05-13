@@ -16,9 +16,18 @@ There are several options for gapps. We want ARM64 and Android 12.1
 - BitGapps works fine
 - MindTheGapps can be made to work by modifying the installer zip file. You can get a pre-modified one in this releases section also.
 
-# Reporting a bug
-If you encounter a bug, glitch or issue with the ROM, please submit a detailed explanation of what's wrong, how it has gone wrong, what you did etc.
-Please provide a logcat when the issue happens. If I have no logs, it is unlikely to get fixed in a timely fashion. 
+# Reporting a bug/issue
+If you encounter a bug, glitch or issue with the ROM, submit a bug report. Please at the very minimum ensure you contain this information:
+- Device info
+-   Model (ie zerofltexx/G920F)
+-   Android version
+-   Build version (date of build)
+- Description of the issue
+- Is it reproducible? If so post the steps of how you replicated it
+- Necessary logs (logcat -b all, dmesg, last_kmsg, app crash logs etc)
+- If possible, a temporary workaround or fix that helped you
+
+If you do not attempt to explain the issue you are having clearly, or post low effort bug reports lacking info, I will close them.  
 
 # Unsupported configs
 If you use a custom kernel, or any other kernel or boot.img that doesn't come with the ROM, expect bugs and issues to arise. I will not fix problems present in other kernels, as it is too time consuming and too much effort for me to do. Using older kernels can cause no boot, no bluetooth among other issues.
