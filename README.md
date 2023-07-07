@@ -1,6 +1,6 @@
-# LineageOS 19.1 Releases
+# LineageOS 20 Releases
 WARNING: THIS IS CUSTOM FIRMWARE, WHICH VOIDS THE WARRANTY OF YOUR DEVICE. I AM NOT RESPONSIBLE FOR ANY HARDWARE FAILURES, LOSS OF DATA OR EXPLOSIONS. USE AT YOUR OWN RISK.
-ANDROID 12L IS VERY UNSUPPORTED. BUGS AND PERFORMANCE ISSUES MAY ARISE COMPARED TO PREVIOUS VERSIONS
+ANDROID 13 IS VERY UNSUPPORTED. BUGS AND PERFORMANCE ISSUES MAY ARISE COMPARED TO PREVIOUS VERSIONS
 
 # Installation instructions
 1) Boot to your custom recovery
@@ -10,9 +10,8 @@ ANDROID 12L IS VERY UNSUPPORTED. BUGS AND PERFORMANCE ISSUES MAY ARISE COMPARED 
 5) Reboot (DO NOT INSTALL TWRP APP OR YOU WONT BE ABLE TO BOOT)
 
 # Gapps
-There are several options for gapps. We want ARM64 and Android 12.1
+There are several options for gapps. We want ARM64 and Android 13
 
-- For OpenGapps, there is an "unofficial" google drive with updated 12.1 installers.
 - BitGapps works fine
 - MindTheGapps can be made to work by modifying the installer zip file. You can get a pre-modified one in this releases section also.
 
