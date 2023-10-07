@@ -34,6 +34,7 @@ NO SUPPORT
 # Getting support for your device
 If you want to test potential builds for your device, contact me, as I can't feasibly own 20+ devices and test them all. 
 <br>
+Donations also help with getting support for your device. Not only does it indicate that you have interest, but it helps me fund devices like the S6e+ and N5. You can donate at: https://ko-fi.com/fakemanoan
 
 **DISCLAIMER: my builds come with no warranty. Any damage to your devices is your responsibility, as you decide to flash them knowing they may be harmful.**
 My ROMs have not damaged any devices that I know of, but you know how it is. 
