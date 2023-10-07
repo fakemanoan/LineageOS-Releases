@@ -36,4 +36,5 @@
 - Use accubattery/GSAM/BBS to track your battery stats more accurately
 - Use a case and screen protector - this is super cheap these days
 - Don't yank on your cables, the connectors are soldered on the phone motherboard so are hard to replace
+- Disable fast charging and dont use wireless charging - less heat = better battery longevity
 
