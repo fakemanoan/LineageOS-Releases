@@ -1,7 +1,7 @@
-name: Submit a bug report
-description: If you are having an issue and cant fix it
+name: Android 12L bug report
+description: If you are having an issue with LineageOS 19.1 and cant fix it. 
 labels:
-  - bug
+  - A12L
 body:
   - type: input
     id: build
