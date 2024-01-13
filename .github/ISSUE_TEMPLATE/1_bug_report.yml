@@ -35,9 +35,6 @@ body:
       label: To Reproduce
       description: >-
         Give a detailed step by step instructions on how to reproduce the issue.
-        The more detail you go here the easier it is for us to fix it! This
-        includes providing any assets such as maps/materials/models/code which
-        is causing your bug.
       placeholder: >-
         1. Go to '...'
 
