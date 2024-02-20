@@ -1,13 +1,13 @@
 {
-    "response": [
-      {
-        "datetime": "1705267357",
-        "filename": "lineage-20.0-20240114-UNOFFICIAL-zerofltexx.zip",
-        "id": "abcdefghijklm2",
-        "romtype": "UNOFFICIAL",
-        "size": "717443072",
-        "url": "https://github.com/fakemanoan/bigtest/releases/download/test2/lineage-20.0-20240114-UNOFFICIAL-zerofltexx.zip",
-        "version": "20.0"
-      }
-    ]
-  }
+  "response": [
+    {
+      "datetime": "1708427058",
+      "filename": "lineage-19.1-20240220-UNOFFICIAL-zerofltexx.zip",
+      "id": "ff278a7c3e550f788ee2d7f400765a05a55093bae6b4bf5458642598742f99d3",
+      "romtype": "UNOFFICIAL",
+      "size": "695333374",
+      "url": "https://github.com/fakemanoan/lineage_ota/releases/download/zerofltexx_lineage-19.1_1708427058/lineage-19.1-20240220-UNOFFICIAL-zerofltexx.zip",
+      "version": "19.1"
+    }
+  ]
+}
