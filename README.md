@@ -21,21 +21,23 @@ For details on everything, please visit <http://fakemanoan.github.io>
 
 # Reporting a bug/issue
 If you encounter a bug, glitch or issue with the ROM, submit a bug report! It ensures that things have a chance of getting fixed.
+
 However, I do have a few guidelines:
+- Follow the issue templates, they are there for a reason!
 - Don't duplicate bug reports
 - Be descriptive and constructive
 - Provide bug report zips, logcats, last_kmsg, dmesg logs. Whichever is relevant
 - English only
-- Don't ask for ETAs
-- Don't report a bug if it is a lineage issue (ie you dont like the default launcher)
+- Don't ask for ETAs in bug reports, it isn't helpful
+- Don't report a bug if it is a lineage specific issue (ie you dont like the default launcher)
 
-If you don't follow these guidelines, I will close the issue report.
+If you don't follow these guidelines, I will close the issue report. 
 
 # Unsupported configs
 I provide support to my ROMs based on how they come out of the box. If you;
 - Install root
 - Xposed or similar mods
 - Custom Kernels
-- Install on an unsupported device (see compatability.md for supported devices)
+- Install on an unsupported device
 
 I will not provide support. It would be too time consuming for me to do so. Hope you understand. 
