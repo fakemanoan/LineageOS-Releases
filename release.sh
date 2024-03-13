@@ -81,10 +81,11 @@ done
 
 echo "RELEASE TAG:" $RELEASETAG
 
-RELEASEMONTH=date -d @$TIMESTAMP +%B
-RELEASEYEAR=date -d @$TIMESTAMP +%Y
-RELEASETITLE="[LINEAGE-"$ROMVERSION"]" $RELEASEMONTH $RELEASEYEAR "Update"
-gh release create $RELEASETAG -title $RELEASETITLE -F notes.md
+RELEASEMONTH=$(date -d @"$TIMESTAMP" +%B)
+RELEASEYEAR=$(date -d @"$TIMESTAMP" +%Y)
+RELEASETITLE="[LINEAGE-$ROMVERSION] $RELEASEMONTH $RELEASEYEAR Update"
+echo "CREATING RELEASE"
+gh release create $RELEASETAG --title "$RELEASETITLE" -F notes.md
 
 echo "Uploading files..."
 for args in "$@"
