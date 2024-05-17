@@ -1,4 +1,4 @@
-# LineageOS ROMs for Samsung Galaxy S6 and Galaxy S6 Edge
+# LineageOS ROMs for Samsung Galaxy S6, Galaxy S6 Edge, Galaxy S6 Edge+ and Galaxy Note5
 ![2okPze5](https://github.com/fakemanoan/LineageOS-Releases/assets/55951275/ce162595-1212-4e74-bf84-d8256eef00b9)
 
 ```
