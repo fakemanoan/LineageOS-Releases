@@ -1,7 +1,7 @@
 name: Android 11 bug report
 description: If you are having an issue with LineageOS 18.1 and cant fix it. 
 labels:
-  - A12L
+  - A11
 body:
   - type: input
     id: build
