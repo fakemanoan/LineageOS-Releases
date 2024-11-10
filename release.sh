@@ -4,6 +4,8 @@ echo "LINEAGE OTA RELEASE SCRIPT"
 echo "##########################"
 echo ""
 
+UPLOAD_RELEASE=0
+
 if [ $# -lt 1 ] ; then
     echo "Usage: $0 <zips>"
     echo "Release notes from notes.md"
@@ -63,12 +65,12 @@ if [ ! -d $(pwd)/ota ]; then
   mkdir $(pwd)/ota
 fi
 
-if [ ! -d $(pwd)/ota/${OTAVER} ]; then
-  mkdir $(pwd)/ota/${OTAVER}
+if [ ! -d $(pwd)/ota/${ROMNAME} ]; then
+  mkdir $(pwd)/ota/${ROMNAME}
 fi
 
-echo "$wrapped_response" > ota/${OTAVER}/${DEVICE}.json
-git add ota/${OTAVER}/${DEVICE}.json
+echo "$wrapped_response" > ota/${ROMNAME}/${DEVICE}.json
+git add ota/${ROMNAME}/${DEVICE}.json
 echo "filename:" $FILENAME
 echo "rom name:" $ROMNAME
 echo "rom ver:" $ROMVERSION
@@ -79,6 +81,7 @@ echo "timestamp:" $TIMESTAMP
 echo -e "END OF DEVICE\n\n"
 done
 
+if [$UPLOAD_RELEASE -eq 1]; then
 echo "RELEASE TAG:" $RELEASETAG
 
 RELEASEMONTH=$(date -d @"$TIMESTAMP" +%B)
@@ -97,6 +100,7 @@ echo "Uploading" $ROMZIP
 gh release upload $RELEASETAG $ROMFILE
 done
 echo -e "\nUpload Complete"
+fi
 
 echo "Automatically updating OTA jsons"
 git commit -m "Auto update JSONs for OTA"
