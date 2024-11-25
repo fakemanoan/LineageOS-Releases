@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1732459204",
+      "filename": "lineage-20.0-20241124-UNOFFICIAL-zeroltexx.zip",
+      "id": "54bd10d9798725d27c2a522379e3f9b94412ab54b8266457b778ba443f74bced",
+      "romtype": "UNOFFICIAL",
+      "size": "733610794",
+      "url": "https://github.com/fakemanoan/LineageOS-Releases/releases/download/A13-24112024/lineage-20.0-20241124-UNOFFICIAL-zeroltexx.zip",
+      "version": "20.0"
+    }
+  ]
+}
