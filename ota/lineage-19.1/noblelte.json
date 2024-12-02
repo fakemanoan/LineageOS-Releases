@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1729854828",
-      "filename": "lineage-19.1-20241025-UNOFFICIAL-noblelte.zip",
-      "id": "e0d92f4b4909ec117cb693feb80cce5d6adbdeaecd87eab5cd260b734c498e65",
+      "datetime": "1733147294",
+      "filename": "lineage-19.1-20241202-UNOFFICIAL-noblelte.zip",
+      "id": "f260063ad1d4913f644db253c521f5376e58404069ec840c27b8b8a639da051c",
       "romtype": "UNOFFICIAL",
-      "size": "717872458",
-      "url": "https://github.com/fakemanoan/LineageOS-Releases/releases/download/A12L-25102024/lineage-19.1-20241025-UNOFFICIAL-noblelte.zip",
+      "size": "719918820",
+      "url": "https://github.com/fakemanoan/LineageOS-Releases/releases/download/A12L-02122024/lineage-19.1-20241202-UNOFFICIAL-noblelte.zip",
       "version": "19.1"
     }
   ]

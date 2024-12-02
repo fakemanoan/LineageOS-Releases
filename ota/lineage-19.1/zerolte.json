@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1729888430",
-      "filename": "lineage-19.1-20241025-UNOFFICIAL-zeroltexx.zip",
-      "id": "616b7fec921ce42e51d242acd77fe94e0e5fd309c8d5d90157ed268af9a2b052",
+      "datetime": "1733143700",
+      "filename": "lineage-19.1-20241202-UNOFFICIAL-zeroltexx.zip",
+      "id": "0e05c1d06ad10716a6658dcd17179cd819eb27717eaa76effe9de717c56ec490",
       "romtype": "UNOFFICIAL",
-      "size": "716679896",
-      "url": "https://github.com/fakemanoan/LineageOS-Releases/releases/download/A12L-25102024/lineage-19.1-20241025-UNOFFICIAL-zeroltexx.zip",
+      "size": "718322638",
+      "url": "https://github.com/fakemanoan/LineageOS-Releases/releases/download/A12L-02122024/lineage-19.1-20241202-UNOFFICIAL-zeroltexx.zip",
       "version": "19.1"
     }
   ]

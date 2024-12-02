@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1729780576",
-      "filename": "lineage-19.1-20241025-UNOFFICIAL-zerofltexx.zip",
-      "id": "63821a1dde1f71a6b9a8ef14f2d3e89a43968560aeb696ac70f055892d067b8f",
+      "datetime": "1733139404",
+      "filename": "lineage-19.1-20241202-UNOFFICIAL-zerofltexx.zip",
+      "id": "1e7fb886d95fdac27c6b74f0ea102cd75d1c7a04c45da3062f594c477caeedbc",
       "romtype": "UNOFFICIAL",
-      "size": "716676934",
-      "url": "https://github.com/fakemanoan/LineageOS-Releases/releases/download/A12L-25102024/lineage-19.1-20241025-UNOFFICIAL-zerofltexx.zip",
+      "size": "718331227",
+      "url": "https://github.com/fakemanoan/LineageOS-Releases/releases/download/A12L-02122024/lineage-19.1-20241202-UNOFFICIAL-zerofltexx.zip",
       "version": "19.1"
     }
   ]
