@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1733952632",
+      "filename": "lineage-20.0-20241211-UNOFFICIAL-noblelte.zip",
+      "id": "d03df45acfee354398a5a89a0b2b54ace2e9501118dc90ec30f703c8e96cb418",
+      "romtype": "UNOFFICIAL",
+      "size": "735412552",
+      "url": "https://github.com/fakemanoan/LineageOS-Releases/releases/download/A13-11122024/lineage-20.0-20241211-UNOFFICIAL-noblelte.zip",
+      "version": "20.0"
+    }
+  ]
+}
