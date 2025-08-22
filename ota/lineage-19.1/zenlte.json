@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1755811654",
+      "filename": "lineage-19.1-20250822-UNOFFICIAL-zenlte.zip",
+      "id": "b74bea6f34ebffc74063eb7e04a44b4232aa79aa9a791fe375ef7403278b3b50",
+      "romtype": "UNOFFICIAL",
+      "size": "733359292",
+      "url": "https://github.com/fakemanoan/LineageOS-Releases/releases/download/A12L-22082025/lineage-19.1-20250822-UNOFFICIAL-zenlte.zip",
+      "version": "19.1"
+    }
+  ]
+}
