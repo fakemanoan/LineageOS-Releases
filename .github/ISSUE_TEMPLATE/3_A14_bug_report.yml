@@ -1,0 +1,54 @@
+name: Android 14 bug report
+description: If you are having an issue with LineageOS 21.0 and cant fix it. 
+labels:
+  - A14
+body:
+  - type: input
+    id: build
+    attributes:
+      label: Build used
+      description: >-
+        The LineageOS build you flashed (file name will work)
+    validations:
+      required: true
+  - type: input
+    id: model
+    attributes:
+      label: Model number
+      description: >-
+        The model of phone you have
+    validations:
+      required: true
+  - type: textarea
+    id: describe
+    attributes:
+      label: Describe the bug
+      description: >-
+        Give a detailed description on the bug you're facing. The more details
+        the better
+      placeholder: When I try to...
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: To Reproduce
+      description: >-
+        Give a detailed step by step instructions on how to reproduce the issue.
+      placeholder: >-
+        1. Go to '...'
+
+        2. Click on '....'
+
+        3. Scroll down to '....'
+        
+        4. See error
+    validations:
+      required: true
+  - type: textarea
+    id: additionalinfo
+    attributes:
+      label: Any extra info
+      description: >-
+        Add any other context about the problem here, like hardware/software
+        information you think might make this easier to diagnose.
